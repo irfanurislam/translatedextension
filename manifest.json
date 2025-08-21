@@ -3,7 +3,7 @@
   "name": "Text Translator",
   "version": "1.0",
   "description": "Translate selected text using Google Translate",
-  "permissions": ["contextMenus", "storage", "activeTab", "scripting"],
+  "permissions": ["contextMenus", "storage", "scripting"],
   "background": {
     "service_worker": "background.js"
   },
